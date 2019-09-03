@@ -2,13 +2,13 @@
   <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/gyalyongsachen/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/gyalyongsachen/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/gyalyongsachen/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/gyalyongsachen/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/gyalyongsachen/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/gyalyongsachen/natsok">སྣ་ཚོགས།</a></p>
 
 
-#  ས་སྐྱ་མཐོ་སློབ་ཀྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
+#  རྒྱལ་ཡོངས་ས་ཆེན་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/gyalyongsachen/master/docs/img/A1.png)
 
 <br>
 
-#  ས་སྐྱ་མཐོ་སློབ་ཀྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་ངོ་སྤྲོད།
+#  རྒྱལ་ཡོངས་ས་ཆེན་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་ངོ་སྤྲོད།
  
  ངོ་སྤྲོད་འབྲི་དགོས།
 
