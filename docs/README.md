@@ -4,7 +4,7 @@
 
 #  རྒྱལ་ཡོངས་ས་ཆེན་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/sangchengyudra/master/docs/img/A1.PNG)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/sangchengyudra/master/docs/img/14.png)
 
 <br>
 
