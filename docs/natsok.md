@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://bdrc-reader.github.io/gyalyongsachen/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/gyalyongsachen/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/gyalyongsachen/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/gyalyongsachen/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/gyalyongsachen/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/gyalyongsachen/tantra">སྔགས་ཀྱི་སྐོར།</a> • <span>སྣ་ཚོགས།</span></p>
+  <a href="https://bdrc-reader.github.io/sangchengyudra/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/sangchengyudra/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/sangchengyudra/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/sangchengyudra/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/sangchengyudra/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/sangchengyudra/tantra">སྔགས་ཀྱི་སྐོར།</a> • <span>སྣ་ཚོགས།</span></p>
 
 
 # རྒྱལ་ཡོངས་ས་ཆེན་དྲ་བ་དང་འབྲེལ་བའི་གཞུང་ལུགས་སྣ་ཚོགས་ཀྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།

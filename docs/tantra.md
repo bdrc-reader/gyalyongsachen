@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://bdrc-reader.github.io/gyalyongsachen/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/gyalyongsachen/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/gyalyongsachen/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/gyalyongsachen/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/gyalyongsachen/doncha">འདོན་ཆའི་སྐོར།</a> • <span>སྔགས་ཀྱི་སྐོར།</span> •  <a href="https://bdrc-reader.github.io/gyalyongsachen/natsok">སྣ་ཚོགས།</a></p>
+  <a href="https://bdrc-reader.github.io/sangchengyudra/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/sangchengyudra/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/sangchengyudra/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/sangchengyudra/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/sangchengyudra/doncha">འདོན་ཆའི་སྐོར།</a> • <span>སྔགས་ཀྱི་སྐོར།</span> •  <a href="https://bdrc-reader.github.io/sangchengyudra/natsok">སྣ་ཚོགས།</a></p>
 
 
-# རྒྱལ་ཡོངས་ས་ཆེན་དྲ་བའི་སྔགས་སྐོར་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
+# དཔལ་ས་སྐྱའི་གསང་ཆེན་རྒྱུད་གྲྭའི་སྔགས་སྐོར་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
 <iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0014005&origin=website.com" width="100%" height="600"></iframe>
 
@@ -16,7 +16,7 @@ iframe ཀྱི་ཨང་བརྡ། གཤམ་དུ་བཀོད་པ
 <iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0014005&origin=website.com" width="100%" height="600"></iframe>
 ```
 
-# ས་སྐྱ་མཐོ་སློབ་ཀྱི་སྔགས་སྐོར་གྱི་ངོ་སྤྲོད།
+# དཔལ་ས་སྐྱའི་གསང་ཆེན་རྒྱུད་གྲྭའི་སྔགས་སྐོར་གྱི་ངོ་སྤྲོད།
 
 འགྲེལ་བཤད་འབྲི་དགོས།
 

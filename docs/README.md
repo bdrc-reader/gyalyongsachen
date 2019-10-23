@@ -1,24 +1,24 @@
 <p align="center">
-  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/gyalyongsachen/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/gyalyongsachen/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/gyalyongsachen/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/gyalyongsachen/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/gyalyongsachen/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/gyalyongsachen/natsok">སྣ་ཚོགས།</a></p>
+  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/sangchengyudra/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/sangchengyudra/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/sangchengyudra/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/sangchengyudra/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/sangchengyudra/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/sangchengyudra/natsok">སྣ་ཚོགས།</a></p>
 
 
 #  རྒྱལ་ཡོངས་ས་ཆེན་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/gyalyongsachen/master/docs/img/A1.PNG)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/sangchengyudra/master/docs/img/A1.PNG)
 
 <br>
 
-#  རྒྱལ་ཡོངས་ས་ཆེན་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་ངོ་སྤྲོད།
+#  དཔལ་ས་སྐྱའི་གསང་ཆེན་རྒྱུད་གྲྭའི་དཔེ་ཀློག་སྒེའུ་ཁུང་ངོ་སྤྲོད།
  
  ངོ་སྤྲོད་འབྲི་དགོས།
 
  <br>
 
-### ༡ རྒྱལ་ཡོངས་ས་ཆེན་དྲ་ཚིགས་ལ་གཟིགས། [དྲ་ཚིགས།](https://bdrc-reader.github.io/gyalyongsachen/)
+### ༡ དཔལ་ས་སྐྱའི་གསང་ཆེན་རྒྱུད་གྲྭའི་དྲ་ཚིགས་ལ་གཟིགས། [དྲ་ཚིགས།](?)
 
-### ༢ དྲ་ཚིགས་འདིའི་ནང་རྩོམ་སྒྲིག་བྱེད་སྟངས། [སློབ་ཚན།](https://github.com/bdrc-reader/gyalyongsachen#%E0%BD%A2%E0%BE%A9%E0%BD%BC%E0%BD%98%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%96%E0%BE%B1%E0%BD%BA%E0%BD%91%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BD%A6%E0%BE%B3%E0%BD%BC%E0%BD%96%E0%BD%9A%E0%BD%93)
+### ༢ དྲ་ཚིགས་འདིའི་ནང་རྩོམ་སྒྲིག་བྱེད་སྟངས། [སློབ་ཚན།](https://github.com/bdrc-reader/sangchengyudra#%E0%BD%A2%E0%BE%A9%E0%BD%BC%E0%BD%98%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%96%E0%BE%B1%E0%BD%BA%E0%BD%91%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BD%A6%E0%BE%B3%E0%BD%BC%E0%BD%96%E0%BD%9A%E0%BD%93)
 
-### ༣ རྩོམ་སྒྲིག་བྱས་ཟིན་པའི་མ་ཕྱིའི་དཔེ་མཚོན་ལ་གཟིགས། [དཀར་ཆག](https://github.com/bdrc-reader/gyalyongsachen/blob/master/karchak/W1ERI0014.tsv)
+### ༣ རྩོམ་སྒྲིག་བྱས་ཟིན་པའི་མ་ཕྱིའི་དཔེ་མཚོན་ལ་གཟིགས། [དཀར་ཆག](https://github.com/bdrc-reader/sangchengyudra/blob/master/karchak/W1ERI0014.tsv)
 
 <br>
 
