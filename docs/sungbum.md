@@ -4,7 +4,7 @@
 
 #  དཔལ་ས་སྐྱའི་གསང་ཆེན་རྒྱུད་གྲྭ་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0014003&origin=website.com" width="100%" height="600"></iframe>
+<iframe allowfullscreen src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0014003&origin=http://www.gyudra.com/horn-product" width="100%" height="600"></iframe>
 
 <br>
 
